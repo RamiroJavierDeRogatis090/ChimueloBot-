@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/imagen.png" alt="ChimueloBot imagen ilustrativa" width="300">
+  <img src="imagen.png" alt="ChimueloBot imagen ilustrativa" width="300">
 </p>
 
 # ⚽ ChimueloBot
